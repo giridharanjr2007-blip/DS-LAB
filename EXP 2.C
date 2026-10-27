@@ -129,7 +129,9 @@ displayCircular(&list);
 printf("Size of circular Linked List:%d\n", sizeCircular(&list));
 return 0;
 }
+
 OUTPUT:
+
 Circular Linked LIst afetr adding elements:Circular Linked List:123
 Element 2 removed found in  the list
 Circular Linked LIst after removing element 2:Circular Linked List:13

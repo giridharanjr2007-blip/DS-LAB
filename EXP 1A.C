@@ -181,33 +181,3 @@ Array Operation Menu:
 6. Exit
 Enter Your choice: 5
 Array elements: 1 2 3 4 5
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
